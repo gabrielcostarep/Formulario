@@ -1,6 +1,6 @@
-🍖 Exemplo de uma página para calcular quantidades de itens para um churrasco
+📝 Exemplo de um formulário verificado pelo JavaScript
 
-➡️ [Acesse a página clicando aqui](https://gabrielcostarep.github.io/Churrascometro/index.html) ⬅️
+➡️ [Acesse a página clicando aqui](https://gabrielcostarep.github.io/Formulario/index.html) ⬅️
 
  <div align="center" >
   <img src="./Readme-gif.gif" alt="demo-web" width="1000em">
